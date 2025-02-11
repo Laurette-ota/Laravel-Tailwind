@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source "../views";
+@import "tailwindcss/preflight";
+@tailwind components;
+@tailwind utilities;
